@@ -1,0 +1,10 @@
+.home-page {
+  max-width: 400px;
+  & img {
+    width: 50px;
+    margin-right: 10px;
+  }
+  & .main {
+    margin-left: 60px;
+  }
+}

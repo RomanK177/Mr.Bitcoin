@@ -1,0 +1,18 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background-color: rgb(203, 253, 253);
+  & img {
+    width: 45px;
+    margin: 0 5px;
+  }
+  & .back-btn {
+    width: 30px;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

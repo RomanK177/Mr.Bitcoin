@@ -1,0 +1,10 @@
+.contact-preview {
+  width: 350px;
+  padding: 20px;
+  &:hover {
+    background-color: rgba(150, 225, 250, 0.829);
+  }
+  & img {
+    width: 80px;
+  }
+}

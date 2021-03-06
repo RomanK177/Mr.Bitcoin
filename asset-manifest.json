@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Mr.Bitcoin%20/static/css/main.2310abc3.chunk.css",
-    "main.js": "/Mr.Bitcoin%20/static/js/main.b05b1f62.chunk.js",
-    "main.js.map": "/Mr.Bitcoin%20/static/js/main.b05b1f62.chunk.js.map",
-    "runtime-main.js": "/Mr.Bitcoin%20/static/js/runtime-main.c8aec0c7.js",
-    "runtime-main.js.map": "/Mr.Bitcoin%20/static/js/runtime-main.c8aec0c7.js.map",
-    "static/js/2.1dcd3b0a.chunk.js": "/Mr.Bitcoin%20/static/js/2.1dcd3b0a.chunk.js",
-    "static/js/2.1dcd3b0a.chunk.js.map": "/Mr.Bitcoin%20/static/js/2.1dcd3b0a.chunk.js.map",
-    "static/js/3.dcde12b6.chunk.js": "/Mr.Bitcoin%20/static/js/3.dcde12b6.chunk.js",
-    "static/js/3.dcde12b6.chunk.js.map": "/Mr.Bitcoin%20/static/js/3.dcde12b6.chunk.js.map",
-    "index.html": "/Mr.Bitcoin%20/index.html",
-    "static/css/main.2310abc3.chunk.css.map": "/Mr.Bitcoin%20/static/css/main.2310abc3.chunk.css.map",
-    "static/js/2.1dcd3b0a.chunk.js.LICENSE.txt": "/Mr.Bitcoin%20/static/js/2.1dcd3b0a.chunk.js.LICENSE.txt"
+    "main.css": "/MrBitcoin%20/static/css/main.2310abc3.chunk.css",
+    "main.js": "/MrBitcoin%20/static/js/main.b05b1f62.chunk.js",
+    "main.js.map": "/MrBitcoin%20/static/js/main.b05b1f62.chunk.js.map",
+    "runtime-main.js": "/MrBitcoin%20/static/js/runtime-main.af42cb5d.js",
+    "runtime-main.js.map": "/MrBitcoin%20/static/js/runtime-main.af42cb5d.js.map",
+    "static/js/2.8fabcfda.chunk.js": "/MrBitcoin%20/static/js/2.8fabcfda.chunk.js",
+    "static/js/2.8fabcfda.chunk.js.map": "/MrBitcoin%20/static/js/2.8fabcfda.chunk.js.map",
+    "static/js/3.dcde12b6.chunk.js": "/MrBitcoin%20/static/js/3.dcde12b6.chunk.js",
+    "static/js/3.dcde12b6.chunk.js.map": "/MrBitcoin%20/static/js/3.dcde12b6.chunk.js.map",
+    "index.html": "/MrBitcoin%20/index.html",
+    "static/css/main.2310abc3.chunk.css.map": "/MrBitcoin%20/static/css/main.2310abc3.chunk.css.map",
+    "static/js/2.8fabcfda.chunk.js.LICENSE.txt": "/MrBitcoin%20/static/js/2.8fabcfda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8aec0c7.js",
-    "static/js/2.1dcd3b0a.chunk.js",
+    "static/js/runtime-main.af42cb5d.js",
+    "static/js/2.8fabcfda.chunk.js",
     "static/css/main.2310abc3.chunk.css",
     "static/js/main.b05b1f62.chunk.js"
   ]

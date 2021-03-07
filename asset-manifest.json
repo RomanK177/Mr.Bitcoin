@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MrBitcoin/static/css/main.bb713a31.chunk.css",
-    "main.js": "/MrBitcoin/static/js/main.65cc3261.chunk.js",
-    "main.js.map": "/MrBitcoin/static/js/main.65cc3261.chunk.js.map",
-    "runtime-main.js": "/MrBitcoin/static/js/runtime-main.ab3cc2f6.js",
-    "runtime-main.js.map": "/MrBitcoin/static/js/runtime-main.ab3cc2f6.js.map",
-    "static/js/2.233da645.chunk.js": "/MrBitcoin/static/js/2.233da645.chunk.js",
-    "static/js/2.233da645.chunk.js.map": "/MrBitcoin/static/js/2.233da645.chunk.js.map",
-    "static/js/3.2f23f01a.chunk.js": "/MrBitcoin/static/js/3.2f23f01a.chunk.js",
-    "static/js/3.2f23f01a.chunk.js.map": "/MrBitcoin/static/js/3.2f23f01a.chunk.js.map",
+    "main.css": "/MrBitcoin/static/css/main.43aff998.chunk.css",
+    "main.js": "/MrBitcoin/static/js/main.24f5de8d.chunk.js",
+    "main.js.map": "/MrBitcoin/static/js/main.24f5de8d.chunk.js.map",
+    "runtime-main.js": "/MrBitcoin/static/js/runtime-main.1bbf46ca.js",
+    "runtime-main.js.map": "/MrBitcoin/static/js/runtime-main.1bbf46ca.js.map",
+    "static/js/2.1ba5ea89.chunk.js": "/MrBitcoin/static/js/2.1ba5ea89.chunk.js",
+    "static/js/2.1ba5ea89.chunk.js.map": "/MrBitcoin/static/js/2.1ba5ea89.chunk.js.map",
+    "static/js/3.2d20ae9c.chunk.js": "/MrBitcoin/static/js/3.2d20ae9c.chunk.js",
+    "static/js/3.2d20ae9c.chunk.js.map": "/MrBitcoin/static/js/3.2d20ae9c.chunk.js.map",
     "index.html": "/MrBitcoin/index.html",
-    "static/css/main.bb713a31.chunk.css.map": "/MrBitcoin/static/css/main.bb713a31.chunk.css.map",
-    "static/js/2.233da645.chunk.js.LICENSE.txt": "/MrBitcoin/static/js/2.233da645.chunk.js.LICENSE.txt",
+    "static/css/main.43aff998.chunk.css.map": "/MrBitcoin/static/css/main.43aff998.chunk.css.map",
+    "static/js/2.1ba5ea89.chunk.js.LICENSE.txt": "/MrBitcoin/static/js/2.1ba5ea89.chunk.js.LICENSE.txt",
     "static/media/bitcoin2.98408791.png": "/MrBitcoin/static/media/bitcoin2.98408791.png",
     "static/media/graph.7324fd26.png": "/MrBitcoin/static/media/graph.7324fd26.png",
     "static/media/home.07d4384b.png": "/MrBitcoin/static/media/home.07d4384b.png",
     "static/media/users.8ff7b982.png": "/MrBitcoin/static/media/users.8ff7b982.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab3cc2f6.js",
-    "static/js/2.233da645.chunk.js",
-    "static/css/main.bb713a31.chunk.css",
-    "static/js/main.65cc3261.chunk.js"
+    "static/js/runtime-main.1bbf46ca.js",
+    "static/js/2.1ba5ea89.chunk.js",
+    "static/css/main.43aff998.chunk.css",
+    "static/js/main.24f5de8d.chunk.js"
   ]
 }
